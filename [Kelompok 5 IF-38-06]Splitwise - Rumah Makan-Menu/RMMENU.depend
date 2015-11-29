@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1448714413 source:d:\azhari\telkom\semester 3\asd\tubes\tes\rmmenu\list.cpp
+	"list.h"
+
+1448717676 source:d:\azhari\telkom\semester 3\asd\tubes\tes\rmmenu\main.cpp
+	"list.h"
+
+1448642096 d:\azhari\telkom\semester 3\asd\tubes\tes\rmmenu\list.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+
